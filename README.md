@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 23-11-2024
+## Date: 24-11-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -39,7 +39,7 @@ imagemap.html
                 </b>
             </h2>
             <h3 align="center">
-<img src="map 1.png" usemap="#image-map">
+<img src="1.png" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="JANAS CINEMAS" title="JANAS CINEMAS" href="janas.html" coords="1075,46,23" shape="circle">
@@ -49,147 +49,6 @@ imagemap.html
     <area target="" alt="CHITHRA PHARMACY" title="CHITHRA PHARMACY" href="pharmacy.html" coords="530,196,23" shape="circle">
 </map>
 </body>
-</html>
-
-kalyan.html
-
-<html>
-<body bgcolor="purpel">
-    <h1 align="center">
-        <font color="red">
-           VILLUPURAM
-        </font>
-    </h1>
-    <h2 align="center">
-        KALYAN CINEMAS
-    </h2>
-    <hr>
-    <h3>
-        <center> 
-        <img src="map 3.png" height="388" width="850" >
-        </center>
-        <br>
-        <hr>
-        <li>
-            <font size="5">
-                Kalyan Cinemas is a popular movie theater in villupuram.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                kalyan Cinemas for showcasing a wide range of films, including Bollywood, Hollywood, and regional movies.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                They offer comfortable seating, advanced sound systems, and a great movie-going experience.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                You can book tickets online through various platforms like BookMyShow, Ticketnew and Paytm
-            </font>
-        </li>
-    </h3>
-</body>
-
-</html>
-
-janas.html
-
-<html>
-<body bgcolor="olive">
-    <h1 align="center">
-        <font color="red">
-           VILLUPURAM
-        </font>
-    </h1>
-    <h2 align="center">
-        JANAS CINEMAS
-    </h2>
-    <hr>
-    <h3>
-        <center> 
-        <img src="map 6.png" height="388" width="850" >
-        </center>
-        <br>
-        <hr>
-        <li>
-            <font size="5">
-                JANAS Cinemas was an Indian movie theater chain. It was a division of Anil Ambani’s Reliance MediaWorks Ltd (formerly known as Adlabs Films Limited) and a member of Reliance ADA Group.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                It was a multiplex theatre chain with over 515 screens in India, US, Malaysia, and the Netherlands. As of July 2014, the company had 280 screens in India.[1] As of 2010, the company was third-largest cinema chain in Malaysia and featured Hollywood as well as Chinese and Tamil films.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                In India Big Cinemas are mostly seen in the state of Maharashtra with its multiplex outlets even in semi-developed cities and small towns. Big Cinemas has its outlets in cities like Mumbai, Pune, Jalandhar, New Delhi, Delhi NCR, Nashik, Nagpur, Indore, Aurangabad, Solapur, Nanded, and Latur.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                The most famous Big Cinemas Theatre was Big Cinemas, Wadala (IMAX) in Mumbai which is the world's largest dome shaped Theatre. [2] In mid-2009, the company
-            </font>
-        </li>
-    </h3>
-</body>
-
-</html>
-
-ias.html
-
-<html>
-<body bgcolor="red">
-    <h1 align="center">
-        <font color="yellow">
-           VILLUPURAM
-        </font>
-    </h1>
-    <h2 align="center">
-        TAF IAS ACADEMY
-    </h2>
-    <hr>
-    <h3>
-        <center> 
-        <img src="map 5.png" height="388" width="850" >
-        </center>
-        <br>
-        <hr>
-        <li>
-            <font size="5">
-              TAF IAS Academy, founded in 2009 by Mr. Agagasamoorthy, is an institution dedicated to nurturing civil service aspirants and uniform service aspirants in villupuram.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                The academy aims to create a focused and skilled generation for civil service jobs, promoting equal rights to education
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                So far, over 13,000 candidates have successfully achieved their objectives with the support of TAF IAS Academy.
-            </font>
-        </li>
-        <br>
-        <li>
-            <font size="5">
-                Located in villupuram, Tamil Nadu, it offers both online and offline courses for various exams, including SSC, Railway, and Banking exams.
-            </font>
-        </li>
-    </h3>
-</body>
-
 </html>
 
 house.html
@@ -207,7 +66,7 @@ house.html
     <hr>
     <h3>
         <center> 
-        <img src="map 2.png" height="402" width="822" >
+        <img src="2.png" height="402" width="822" >
         </center>
         <br>
         <hr>
@@ -239,6 +98,147 @@ house.html
 
 </html>
 
+ias.html
+
+<html>
+<body bgcolor="red">
+    <h1 align="center">
+        <font color="yellow">
+           VILLUPURAM
+        </font>
+    </h1>
+    <h2 align="center">
+        TAF IAS ACADEMY
+    </h2>
+    <hr>
+    <h3>
+        <center> 
+        <img src="5.png" height="388" width="850" >
+        </center>
+        <br>
+        <hr>
+        <li>
+            <font size="5">
+              TAF IAS Academy, founded in 2009 by Mr. Agagasamoorthy, is an institution dedicated to nurturing civil service aspirants and uniform service aspirants in villupuram.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                The academy aims to create a focused and skilled generation for civil service jobs, promoting equal rights to education
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                So far, over 13,000 candidates have successfully achieved their objectives with the support of TAF IAS Academy.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                Located in villupuram, Tamil Nadu, it offers both online and offline courses for various exams, including SSC, Railway, and Banking exams.
+            </font>
+        </li>
+    </h3>
+</body>
+
+</html>
+
+janas.html
+
+<html>
+<body bgcolor="olive">
+    <h1 align="center">
+        <font color="red">
+           VILLUPURAM
+        </font>
+    </h1>
+    <h2 align="center">
+        JANAS CINEMAS
+    </h2>
+    <hr>
+    <h3>
+        <center> 
+        <img src="6.png" height="388" width="850" >
+        </center>
+        <br>
+        <hr>
+        <li>
+            <font size="5">
+                JANAS Cinemas was an Indian movie theater chain. It was a division of Anil Ambani’s Reliance MediaWorks Ltd (formerly known as Adlabs Films Limited) and a member of Reliance ADA Group.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                It was a multiplex theatre chain with over 515 screens in India, US, Malaysia, and the Netherlands. As of July 2014, the company had 280 screens in India.[1] As of 2010, the company was third-largest cinema chain in Malaysia and featured Hollywood as well as Chinese and Tamil films.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                In India Big Cinemas are mostly seen in the state of Maharashtra with its multiplex outlets even in semi-developed cities and small towns. Big Cinemas has its outlets in cities like Mumbai, Pune, Jalandhar, New Delhi, Delhi NCR, Nashik, Nagpur, Indore, Aurangabad, Solapur, Nanded, and Latur.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                The most famous Big Cinemas Theatre was Big Cinemas, Wadala (IMAX) in Mumbai which is the world's largest dome shaped Theatre. [2] In mid-2009, the company
+            </font>
+        </li>
+    </h3>
+</body>
+
+</html>
+
+kalayn.html
+
+<html>
+<body bgcolor="purpel">
+    <h1 align="center">
+        <font color="red">
+           VILLUPURAM
+        </font>
+    </h1>
+    <h2 align="center">
+        KALYAN CINEMAS
+    </h2>
+    <hr>
+    <h3>
+        <center> 
+        <img src="3.png" height="388" width="850" >
+        </center>
+        <br>
+        <hr>
+        <li>
+            <font size="5">
+                Kalyan Cinemas is a popular movie theater in villupuram.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                kalyan Cinemas for showcasing a wide range of films, including Bollywood, Hollywood, and regional movies.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                They offer comfortable seating, advanced sound systems, and a great movie-going experience.
+            </font>
+        </li>
+        <br>
+        <li>
+            <font size="5">
+                You can book tickets online through various platforms like BookMyShow, Ticketnew and Paytm
+            </font>
+        </li>
+    </h3>
+</body>
+
+</html>
+
 pharmacy.html
 
 <html>
@@ -254,7 +254,7 @@ pharmacy.html
     <hr>
     <h3>
         <center> 
-        <img src="map 4.png"height="388" width="850" >
+        <img src="4.png"height="388" width="850" >
         </center>
         <br>
         <hr>
@@ -289,13 +289,11 @@ pharmacy.html
 ```
 
 ## OUTPUT
-![alt text](<map 1.png>)
-![alt text](<map 3.png>)
-![alt text](<map 6.png>)
-![alt text](<map 5.png>)
-![alt text](<map 2.png>)
-![alt text](<map 4.png>)
-
-
+![alt text](<Screenshot (34).png>)
+![alt text](<Screenshot (35).png>)
+![alt text](<Screenshot (37).png>)
+![alt text](<Screenshot (38).png>)
+![alt text](<Screenshot (36).png>)
+![alt text](<Screenshot (39).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
